@@ -6,7 +6,7 @@ This is a simple ChatGPT bot to use in your discord servers.
 
 ### ChatGPT Bot
 
-Download the files from [here](https://github.com/Paraianu-Remus/ChatGPT-Discord-Bot/archive/refs/heads/main.zip)
+Download the files from [here](https://github.com/Paraianu-Remus/ChatGPT-Discord-Bot/archive/refs/heads/master.zip)
 
 After you download the file, extract it anywhere you want and open the .env file with a text editor and fill in your credentials. You'll need your [Discord Bot Token](https://www.writebots.com/discord-bot-token/), [OpenAI API Token](https://www.educative.io/answers/how-to-get-api-key-of-gpt-3) and [OpenAI ORG Token](https://beta.openai.com/account/org-settings). Save the file.
 
