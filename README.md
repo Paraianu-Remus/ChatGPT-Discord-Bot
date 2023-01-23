@@ -19,6 +19,8 @@ After the installation is done, open CMD or Powershell and type node -v and npm 
 
 ## Starting the bot
 
-Finally, open the terminal in your computer (CMD or Powershell), navigate to the path you extracted the above file (you can use cd dirname to navigate to a directory, and run node .\index.js. If everything was done correctly and you followed the guide, the bot should be online. In the terminal should say "ChatGPT Bot is Online on Discord". To stop the script press ctrl + c.
+Finally, open the terminal in your computer (CMD or Powershell), navigate to the path you extracted the above file (you can use cd dirname to navigate to a directory, and run node .\index.js. If everything was done correctly and you followed the guide, the bot should be online. In the terminal should say "ChatGPT Bot is Online on Discord". 
 
 Now go to your discord server and ask the bot whatever you want.
+
+To stop the script, in the terminal you ran node .\index.js, press ctrl + c.
